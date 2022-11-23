@@ -1,2 +1,5 @@
 # AnimaCursoExtensaoPython2022-2
-Repositório de exemplos e avaliativo do curso de extensão Python básico 2022/2
+
+Repositório destinado para o Curso de Extensão de Python Basic 2022-2 
+
+
