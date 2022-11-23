@@ -3,10 +3,10 @@
 # input()
 
 nome = input("Digite seu nome: ")
-idade = int(input("Qual sua idade: "))
+idade = int(input("Qual sua idade? "))
 sexo = input("Informe seu gênero: (SENDO M = MASCULINO E F = FEMININO) ")
 
-print(f"Boa Noite, seu nome é {nome} e você tem {idade} anos.")
+print(f"Boa Noite, o seu nome é {nome} e você tem {idade} anos.")
 
 dobro = idade * 2
 print(f"O dobro da sua idade é {dobro}.")
